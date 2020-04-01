@@ -7,13 +7,13 @@
 
 ### Introduction
 
-[BEAST/beast](BEAST/beast)中包含整个项目运行的BEAST源码（注意：代码需运行在有BEAST环境的系统中）。
+[BEAST/beast](BEAST/beast)中包含整个项目运行的BEAST源码（注意：代码需运行在配置好BEAST环境的操作系统中）。
 
 [BEAST/Mice](BEAST/Mice)中包含了运行Mice模拟器结果处理过程，通过收集log日志的数据，用Pthon文件处理数据并绘制图片。`.txt`文件是收集的数据，`.png`文件是绘制的图片，`mouse_fitness.cc`和`mouse_network.cc`和`mouse_proximity.cc`是分别使用了不同的`Fitness`函数，神经网络和传感器后的`mouse.cc`源文件。
 
 [BEAST/Chase](BEAST/Chase)中包含了运行10、50、100、4000、14000代的数据以及Prey和Predator的折线图。
 
-[BEAST/doc](BEAST/doc)包括了对整个项目的配置与使用方法，可以下载在本地打开`index.html`进行阅读。
+[BEAST/doc](BEAST/doc)包括了对整个项目的配置与使用方法，可以访问[BEAST - Bioinspired Evolutionary Agent Simulation Toolkit Documentation](hurley.fun/download/bio)进行在线阅读。
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
