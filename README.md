@@ -3,11 +3,11 @@
 ![](https://img.shields.io/badge/uses-CMake-2c63a8?logo=CMake&logoColor=white)
 ![](https://img.shields.io/badge/uses-BEAST-4488a8?logoColor=white)
 
-### What is BEAST
+## What is BEAST
 
 > BEAST is a cross-platform program for Bayesian analysis of molecular sequences using MCMC. It is entirely orientated towards rooted, time-measured phylogenies inferred using strict or relaxed molecular clock models. It can be used as a method of reconstructing phylogenies but is also a framework for testing evolutionary hypotheses without conditioning on a single tree topology. BEAST uses MCMC to average over tree space, so that each tree is weighted proportional to its posterior probability. We include a simple to use user-interface program for setting up standard analyses and a suit of programs for analysing the results.
 
-### Introduction
+## Introduction
 
 [BEAST/beast](BEAST/beast)中包含整个项目运行的BEAST源码（注意：代码需运行在配置好BEAST和CMake环境的操作系统中）。
 
@@ -31,7 +31,7 @@
 
 [BEAST/doc](BEAST/doc)包括了对整个项目的配置与使用方法，可以访问[BEAST - Bioinspired Evolutionary Agent Simulation Toolkit Documentation](http://hurley.fun/download/bio)进行在线阅读。
 
-### License
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
