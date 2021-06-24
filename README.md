@@ -29,7 +29,7 @@
 
 [BEAST/Chase](BEAST/Chase) 中包含了运行 10、50、100、4000、14000 代的数据以及 Prey 和 Predator 的关于 average fitness 和 best fitness 的折线图。
 
-[BEAST/doc](BEAST/doc) 包括了对整个项目的配置与使用方法，可以访问 [BEAST - Bioinspired Evolutionary Agent Simulation Toolkit Documentation](https://blog.withh.life/download/bio) 进行在线阅读。
+[BEAST/doc](BEAST/doc) 包括了对整个项目的配置与使用方法，可以访问 [BEAST - Bioinspired Evolutionary Agent Simulation Toolkit Documentation](https://notes.withh.life/download/bio) 进行在线阅读。
 
 ## License
 
